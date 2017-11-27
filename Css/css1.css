@@ -44,8 +44,8 @@ body{
 }
 .div_sub{
 	height:100px;
-	background-color: limegreen;
-	border:1px solid limegreen;
+	background-color: #00b359;
+	border:1px solid #00b359;
 }
 .div_sub_name{
 	font-style: normal;
@@ -55,9 +55,9 @@ body{
 	text-align: center;
 	font-size: 3.3em;
 	color:#fff;
-	background-color: limegreen;
+	background-color: #00b359;
 	
-	border:1px solid limegreen;
+	border:1px solid #00b359;
 	margin-top:18px;
 	
 	
@@ -65,9 +65,9 @@ body{
 }
 .div_sub_bottom{
 	height:15px;
-	background-color: limegreen;
+	background-color: #00b359;
 	
-	border:1px solid limegreen;
+	border:1px solid #00b359;
 	
 	
 }
@@ -90,7 +90,7 @@ body{
     font-size: 60px;
   
     
-    transition-duration: 0.2s;
+    transition-duration: 0.4s;
     cursor: pointer;
 	
 	background-color: white; 
@@ -111,7 +111,6 @@ body{
 
 	
 
-	
 	
 
 
